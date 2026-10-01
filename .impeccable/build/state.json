@@ -1,0 +1,114 @@
+{
+  "tool": "build-phase",
+  "version": 2,
+  "startedAt": "2026-10-01T22:49:12.753Z",
+  "comp": ".impeccable/mocks/fresh-a.png",
+  "direction": "a23539ab",
+  "breakpoint": "1536x1024",
+  "artifact": "index.html",
+  "phase": "plates",
+  "phases": {
+    "comps": {
+      "status": "closed",
+      "openedAt": "2026-10-01T22:49:12.753Z",
+      "closedAt": "2026-10-01T23:01:03.556Z",
+      "attempts": 2,
+      "notes": [],
+      "gate": {
+        "ok": true,
+        "reasons": [],
+        "summary": "3 comps, 1 approved",
+        "approved": ".impeccable/mocks/fresh-a.png",
+        "at": "2026-10-01T23:01:03.556Z"
+      },
+      "forced": null
+    },
+    "spec": {
+      "status": "closed",
+      "openedAt": "2026-10-01T23:01:03.572Z",
+      "closedAt": "2026-10-01T23:06:12.191Z",
+      "attempts": 5,
+      "notes": [],
+      "gate": {
+        "ok": true,
+        "reasons": [],
+        "summary": "23 regions, 0 plates, 8 text regions measured",
+        "at": "2026-10-01T23:06:12.191Z"
+      },
+      "forced": null
+    },
+    "plates": {
+      "status": "open",
+      "openedAt": "2026-10-01T23:06:12.191Z",
+      "closedAt": null,
+      "attempts": 2,
+      "notes": [
+        {
+          "at": "2026-10-01T23:28:35.055Z",
+          "text": "Implementation and twelve combined responsive captures complete; production builds and HTTP servers pass. User-approved comps implemented. Component-review receipt absent; plates phase remains unclosed despite zero plates owed. No automated phase completion is claimed. Fresh reviewer requested mobile hex restoration and SVG disclosure controls, now implemented and recaptured."
+        }
+      ],
+      "gate": {
+        "ok": true,
+        "reasons": [],
+        "summary": "no plates owed",
+        "at": "2026-10-01T23:28:21.934Z"
+      },
+      "forced": null
+    },
+    "hero": {
+      "status": "pending",
+      "openedAt": null,
+      "closedAt": null,
+      "attempts": 0,
+      "notes": [],
+      "gate": null,
+      "forced": null
+    },
+    "sections": {
+      "status": "pending",
+      "openedAt": null,
+      "closedAt": null,
+      "attempts": 0,
+      "notes": [],
+      "gate": null,
+      "forced": null
+    },
+    "motion": {
+      "status": "pending",
+      "openedAt": null,
+      "closedAt": null,
+      "attempts": 0,
+      "notes": [],
+      "gate": null,
+      "forced": null
+    },
+    "responsive": {
+      "status": "pending",
+      "openedAt": null,
+      "closedAt": null,
+      "attempts": 0,
+      "notes": [],
+      "gate": null,
+      "forced": null
+    },
+    "review": {
+      "status": "pending",
+      "openedAt": null,
+      "closedAt": null,
+      "attempts": 0,
+      "notes": [],
+      "gate": null,
+      "forced": null
+    }
+  },
+  "finish": {
+    "disposition": "fix",
+    "at": "2026-10-01T23:27:53.579Z",
+    "phaseAtFinish": "plates",
+    "artifactInputsSha256": "8c3a144cece058181d98fbc4c3c28a69be5736f695247b3bd1001c6c0901395a",
+    "artifactSha256": "30c5df41e99cb172a27acb11930aab67c0795a8bce99302bfb45dc6ecafb25e5"
+  },
+  "sessionId": "01a0f9a0-8ba3-75a0-94e9-58be05f73e4b",
+  "plates": {}
+}

@@ -1,23 +1,29 @@
 # Fresh Me Up Barbershop
 
-Marketing demo site for **Fresh Me Up Barbershop** — Plano, TX.
+Independent website demo for Fresh Me Up Barbershop in Plano, Texas. The approved design uses a stacked name, outlined hexagons, and black, white, and gray sections.
 
-## Live demo
-https://fresh-me-up-barbershop-production-9503.up.railway.app
-
-## Business
-- Address: 1861 N Central Expy Ste 200, Plano, TX 75075
+- Address: 1861 N Central Expy, Suite 200, Plano, TX 75075
 - Phone: (469) 367-0013
-- Booking: https://booksy.com/en-us/1612832_fresh-me-up-barbershop_barber-shop_36433_plano
-- Verified public rating: **5.0★** with **~173 visible Google reviews** (map-pack sample; Booksy ~130+ at 5.0)
+- Appointments, current hours, and reviews: [Booksy](https://booksy.com/en-us/1612832_fresh-me-up-barbershop_barber-shop_36433_plano)
 
-## Stack
-Vite static site served with `serve` on Railway.
+Service prices were checked against Booksy on October 1, 2026. Final prices and availability come from Booksy. The site remains an independent demo until the shop adopts it.
+
+## Development
+
+Requires Node.js 22.12 or newer.
 
 ```bash
-npm install
-npm run build   # regenerates dist/
-npm start       # assembles index from dist/index.b64.* if needed, then serves
+npm ci
+npm run dev
 ```
 
-Independent demo built from public listings for Ethan/Webb outreach — not the shop’s official site unless adopted.
+Edit `index.html` and `src/`. Fonts are served locally from `public/fonts/`, with their OFL licenses included. Design decisions and tokens are documented in `DESIGN.md`; approved mockups are in `.impeccable/mocks/`.
+
+## Production
+
+```bash
+npm run build
+npm start
+```
+
+Vite generates `dist/` from source. Generated output is ignored by Git. Railway builds with `npm run build`; the production server respects Railway's `PORT` environment variable and otherwise uses port 3000.

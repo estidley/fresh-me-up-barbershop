@@ -1,0 +1,263 @@
+{
+  "allowUncovered": true,
+  "coverageNote": "Inspected original and overlay: flagged cells are already mapped typography, hex outline, and booking control, with remaining pixels empty ground. No missing visible elements.",
+  "regions": [
+    {
+      "id": "header",
+      "kind": "chrome",
+      "pixelBox": {
+        "x": 0,
+        "y": 0,
+        "w": 1536,
+        "h": 83
+      },
+      "note": "Black navigation bar",
+      "container": true
+    },
+    {
+      "id": "logo",
+      "kind": "control",
+      "pixelBox": {
+        "x": 60,
+        "y": 10,
+        "w": 62,
+        "h": 66
+      },
+      "note": "White outlined hexagon containing FMU home link"
+    },
+    {
+      "id": "nav-services",
+      "kind": "control",
+      "pixelBox": {
+        "x": 1025,
+        "y": 25,
+        "w": 90,
+        "h": 37
+      },
+      "note": "Services navigation link"
+    },
+    {
+      "id": "nav-visit",
+      "kind": "control",
+      "pixelBox": {
+        "x": 1160,
+        "y": 25,
+        "w": 80,
+        "h": 37
+      },
+      "note": "Find us navigation link"
+    },
+    {
+      "id": "nav-book",
+      "kind": "control",
+      "pixelBox": {
+        "x": 1278,
+        "y": 17,
+        "w": 204,
+        "h": 52
+      },
+      "note": "White rectangular Book on Booksy button"
+    },
+    {
+      "id": "fresh-title",
+      "kind": "text",
+      "pixelBox": {
+        "x": 56,
+        "y": 116,
+        "w": 648,
+        "h": 205
+      },
+      "note": "Black heavy condensed FRESH headline"
+    },
+    {
+      "id": "me-up-title",
+      "kind": "text",
+      "pixelBox": {
+        "x": 56,
+        "y": 326,
+        "w": 627,
+        "h": 202
+      },
+      "note": "Black heavy condensed ME UP. headline"
+    },
+    {
+      "id": "hero-copy",
+      "kind": "text",
+      "pixelBox": {
+        "x": 59,
+        "y": 543,
+        "w": 342,
+        "h": 39
+      },
+      "note": "Your next cut, sorted. supporting text"
+    },
+    {
+      "id": "hero-book",
+      "kind": "control",
+      "pixelBox": {
+        "x": 60,
+        "y": 597,
+        "w": 338,
+        "h": 64
+      },
+      "note": "Black rectangular booking control with white text and arrow"
+    },
+    {
+      "id": "hex-frame",
+      "kind": "chrome",
+      "pixelBox": {
+        "x": 986,
+        "y": 120,
+        "w": 444,
+        "h": 504
+      },
+      "note": "Black six-sided geometric outline",
+      "container": true
+    },
+    {
+      "id": "hex-label",
+      "kind": "text",
+      "pixelBox": {
+        "x": 1039,
+        "y": 331,
+        "w": 341,
+        "h": 52
+      },
+      "note": "Condensed BARBERSHOP text inside hexagon"
+    },
+    {
+      "id": "hex-rule",
+      "kind": "chrome",
+      "pixelBox": {
+        "x": 1157,
+        "y": 415,
+        "w": 102,
+        "h": 5
+      },
+      "note": "Black short horizontal rule"
+    },
+    {
+      "id": "hex-city",
+      "kind": "text",
+      "pixelBox": {
+        "x": 1141,
+        "y": 451,
+        "w": 133,
+        "h": 31
+      },
+      "note": "Spaced PLANO, TX text"
+    },
+    {
+      "id": "address-strip",
+      "kind": "chrome",
+      "pixelBox": {
+        "x": 0,
+        "y": 693,
+        "w": 1536,
+        "h": 74
+      },
+      "note": "Gray address and price strip",
+      "container": true
+    },
+    {
+      "id": "address-icon",
+      "kind": "chrome",
+      "pixelBox": {
+        "x": 58,
+        "y": 714,
+        "w": 29,
+        "h": 31
+      },
+      "note": "Small outlined hexagon"
+    },
+    {
+      "id": "address",
+      "kind": "text",
+      "pixelBox": {
+        "x": 109,
+        "y": 714,
+        "w": 351,
+        "h": 34
+      },
+      "note": "Street address 1861 N Central Expy, Suite 200"
+    },
+    {
+      "id": "price-note",
+      "kind": "text",
+      "pixelBox": {
+        "x": 1223,
+        "y": 714,
+        "w": 203,
+        "h": 34
+      },
+      "note": "Haircuts from $30"
+    },
+    {
+      "id": "price-icon",
+      "kind": "chrome",
+      "pixelBox": {
+        "x": 1452,
+        "y": 714,
+        "w": 29,
+        "h": 31
+      },
+      "note": "Small outlined hexagon"
+    },
+    {
+      "id": "services-ground",
+      "kind": "chrome",
+      "pixelBox": {
+        "x": 0,
+        "y": 767,
+        "w": 1536,
+        "h": 257
+      },
+      "note": "Black service section background",
+      "container": true
+    },
+    {
+      "id": "services-heading",
+      "kind": "text",
+      "pixelBox": {
+        "x": 57,
+        "y": 834,
+        "w": 800,
+        "h": 119
+      },
+      "note": "The cut. The details. white headline"
+    },
+    {
+      "id": "haircut-row",
+      "kind": "control",
+      "pixelBox": {
+        "x": 929,
+        "y": 814,
+        "w": 554,
+        "h": 48
+      },
+      "note": "Haircut $30 service link and hexagon with lower rule"
+    },
+    {
+      "id": "combo-row",
+      "kind": "control",
+      "pixelBox": {
+        "x": 929,
+        "y": 873,
+        "w": 554,
+        "h": 48
+      },
+      "note": "Haircut + beard $40 service link and hexagon with lower rule"
+    },
+    {
+      "id": "beard-row",
+      "kind": "control",
+      "pixelBox": {
+        "x": 929,
+        "y": 932,
+        "w": 554,
+        "h": 48
+      },
+      "note": "Beard trim + lineup $25 service link and hexagon with lower rule"
+    }
+  ]
+}

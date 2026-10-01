@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-01T23:35:33.691Z",
+  "title": "Design System: Fresh Me Up Barbershop",
+  "extensions": {
+    "colorMeta": {
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "tonalRamp": [
+          "oklch(15% 0.0000 0.00)",
+          "oklch(26.43% 0.0000 0.00)",
+          "oklch(37.86% 0.0000 0.00)",
+          "oklch(49.29% 0.0000 0.00)",
+          "oklch(60.71% 0.0000 0.00)",
+          "oklch(72.14% 0.0000 0.00)",
+          "oklch(83.57% 0.0000 0.00)",
+          "oklch(95% 0.0000 0.00)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "tonalRamp": [
+          "oklch(15% 0.0000 0.00)",
+          "oklch(26.43% 0.0000 0.00)",
+          "oklch(37.86% 0.0000 0.00)",
+          "oklch(49.29% 0.0000 0.00)",
+          "oklch(60.71% 0.0000 0.00)",
+          "oklch(72.14% 0.0000 0.00)",
+          "oklch(83.57% 0.0000 0.00)",
+          "oklch(95% 0.0000 0.00)"
+        ]
+      },
+      "gray": {
+        "role": "neutral",
+        "displayName": "Gray",
+        "tonalRamp": [
+          "oklch(15% 0.0000 0.00)",
+          "oklch(26.43% 0.0000 0.00)",
+          "oklch(37.86% 0.0000 0.00)",
+          "oklch(49.29% 0.0000 0.00)",
+          "oklch(60.71% 0.0000 0.00)",
+          "oklch(72.14% 0.0000 0.00)",
+          "oklch(83.57% 0.0000 0.00)",
+          "oklch(95% 0.0000 0.00)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "tonalRamp": [
+          "oklch(15% 0.0000 0.00)",
+          "oklch(26.43% 0.0000 0.00)",
+          "oklch(37.86% 0.0000 0.00)",
+          "oklch(49.29% 0.0000 0.00)",
+          "oklch(60.71% 0.0000 0.00)",
+          "oklch(72.14% 0.0000 0.00)",
+          "oklch(83.57% 0.0000 0.00)",
+          "oklch(95% 0.0000 0.00)"
+        ]
+      },
+      "dark-hover": {
+        "role": "neutral",
+        "displayName": "Dark hover",
+        "tonalRamp": [
+          "oklch(15% 0.0000 0.00)",
+          "oklch(26.43% 0.0000 0.00)",
+          "oklch(37.86% 0.0000 0.00)",
+          "oklch(49.29% 0.0000 0.00)",
+          "oklch(60.71% 0.0000 0.00)",
+          "oklch(72.14% 0.0000 0.00)",
+          "oklch(83.57% 0.0000 0.00)",
+          "oklch(95% 0.0000 0.00)"
+        ]
+      },
+      "emblem-hover": {
+        "role": "neutral",
+        "displayName": "Emblem hover",
+        "tonalRamp": [
+          "oklch(15% 0.0000 0.00)",
+          "oklch(26.43% 0.0000 0.00)",
+          "oklch(37.86% 0.0000 0.00)",
+          "oklch(49.29% 0.0000 0.00)",
+          "oklch(60.71% 0.0000 0.00)",
+          "oklch(72.14% 0.0000 0.00)",
+          "oklch(83.57% 0.0000 0.00)",
+          "oklch(95% 0.0000 0.00)"
+        ]
+      },
+      "rule": {
+        "role": "neutral",
+        "displayName": "Rule",
+        "tonalRamp": [
+          "oklch(15% 0.0000 0.00)",
+          "oklch(26.43% 0.0000 0.00)",
+          "oklch(37.86% 0.0000 0.00)",
+          "oklch(49.29% 0.0000 0.00)",
+          "oklch(60.71% 0.0000 0.00)",
+          "oklch(72.14% 0.0000 0.00)",
+          "oklch(83.57% 0.0000 0.00)",
+          "oklch(95% 0.0000 0.00)"
+        ]
+      },
+      "disclosure-rule": {
+        "role": "neutral",
+        "displayName": "Disclosure rule",
+        "tonalRamp": [
+          "oklch(15% 0.0000 0.00)",
+          "oklch(26.43% 0.0000 0.00)",
+          "oklch(37.86% 0.0000 0.00)",
+          "oklch(49.29% 0.0000 0.00)",
+          "oklch(60.71% 0.0000 0.00)",
+          "oklch(72.14% 0.0000 0.00)",
+          "oklch(83.57% 0.0000 0.00)",
+          "oklch(95% 0.0000 0.00)"
+        ]
+      },
+      "menu-border": {
+        "role": "neutral",
+        "displayName": "Menu border",
+        "tonalRamp": [
+          "oklch(15% 0.0000 0.00)",
+          "oklch(26.43% 0.0000 0.00)",
+          "oklch(37.86% 0.0000 0.00)",
+          "oklch(49.29% 0.0000 0.00)",
+          "oklch(60.71% 0.0000 0.00)",
+          "oklch(72.14% 0.0000 0.00)",
+          "oklch(83.57% 0.0000 0.00)",
+          "oklch(95% 0.0000 0.00)"
+        ]
+      },
+      "nav-rule": {
+        "role": "neutral",
+        "displayName": "Nav rule",
+        "tonalRamp": [
+          "oklch(15% 0.0000 0.00)",
+          "oklch(26.43% 0.0000 0.00)",
+          "oklch(37.86% 0.0000 0.00)",
+          "oklch(49.29% 0.0000 0.00)",
+          "oklch(60.71% 0.0000 0.00)",
+          "oklch(72.14% 0.0000 0.00)",
+          "oklch(83.57% 0.0000 0.00)",
+          "oklch(95% 0.0000 0.00)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Shop name",
+        "purpose": "Identity lettering only."
+      },
+      "headline": {
+        "displayName": "Section heading",
+        "purpose": "Short headings."
+      },
+      "title": {
+        "displayName": "Service row",
+        "purpose": "Service names and prices."
+      },
+      "body": {
+        "displayName": "Supporting copy",
+        "purpose": "Prose, contact details, and disclosures."
+      },
+      "label": {
+        "displayName": "Control label",
+        "purpose": "Condensed navigation and control labels."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "control-state",
+        "value": "0.2s ease",
+        "purpose": "Background and text changes on booking controls; disclosure icon rotation."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "transition: none; scroll-behavior: auto",
+        "purpose": "Applied when prefers-reduced-motion is reduce."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide-min",
+        "value": "1800px"
+      },
+      {
+        "name": "compact-max",
+        "value": "1000px"
+      },
+      {
+        "name": "mobile-max",
+        "value": "650px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Light booking control",
+      "kind": "button",
+      "refersTo": "button-light",
+      "description": "Booksy link with the implemented hover and keyboard focus states.",
+      "html": "<a class=\"ds-button\" href=\"https://booksy.com/en-us/1612832_fresh-me-up-barbershop_barber-shop_36433_plano\">Book on Booksy <svg class=\"ds-arrow\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M3 12h17M14 5l7 7-7 7\"/></svg></a>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:center;gap:24px;min-height:54px;padding:12px 28px;font:600 22px/1.55 var(--label,\"Barlow Condensed\",sans-serif);letter-spacing:.085em;text-transform:uppercase;text-decoration:none;border:1px solid currentColor;transition:background .2s ease,color .2s ease}.ds-arrow{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;flex-shrink:0}.ds-button{background:var(--paper,#f8f8f8);color:var(--ink,#0b0b0b)}.ds-button:hover{background:var(--gray,#dadada);}.ds-button:focus-visible,.ds-nav a:focus-visible,.ds-row:focus-visible,.ds-details summary:focus-visible{outline:3px solid currentColor;outline-offset:6px}@media(prefers-reduced-motion:reduce){.ds-button,.ds-row,.ds-details summary>span{transition:none}}"
+    },
+    {
+      "name": "Dark booking control",
+      "kind": "button",
+      "refersTo": "button-dark",
+      "description": "Booksy link with the implemented hover and keyboard focus states.",
+      "html": "<a class=\"ds-button\" href=\"https://booksy.com/en-us/1612832_fresh-me-up-barbershop_barber-shop_36433_plano\">Book on Booksy <svg class=\"ds-arrow\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M3 12h17M14 5l7 7-7 7\"/></svg></a>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:center;gap:24px;min-height:54px;padding:12px 28px;font:600 22px/1.55 var(--label,\"Barlow Condensed\",sans-serif);letter-spacing:.085em;text-transform:uppercase;text-decoration:none;border:1px solid currentColor;transition:background .2s ease,color .2s ease}.ds-arrow{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;flex-shrink:0}.ds-button{background:var(--ink,#0b0b0b);color:var(--paper,#f8f8f8);border-color:var(--ink,#0b0b0b)}.ds-button:hover{background:#333;}.ds-button:focus-visible,.ds-nav a:focus-visible,.ds-row:focus-visible,.ds-details summary:focus-visible{outline:3px solid currentColor;outline-offset:6px}@media(prefers-reduced-motion:reduce){.ds-button,.ds-row,.ds-details summary>span{transition:none}}"
+    },
+    {
+      "name": "Desktop navigation",
+      "kind": "nav",
+      "description": "Simple underlined hover links; the page replaces this row with an accessible menu on mobile.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Main navigation\"><a href=\"#services\">Services</a><a href=\"#visit\">Find us</a></nav>",
+      "css": ".ds-nav{display:flex;align-items:center;gap:56px;background:var(--ink,#0b0b0b);color:var(--paper,#f8f8f8);padding:12px;font:600 22px/1.55 var(--label,\"Barlow Condensed\",sans-serif)}.ds-nav a{color:inherit;padding-block:12px;text-decoration:none;letter-spacing:.085em;text-transform:uppercase;}.ds-nav a:hover{text-decoration:underline;text-underline-offset:5px;}.ds-button:focus-visible,.ds-nav a:focus-visible,.ds-row:focus-visible,.ds-details summary:focus-visible{outline:3px solid currentColor;outline-offset:6px}"
+    },
+    {
+      "name": "Service row",
+      "kind": "custom",
+      "refersTo": "service-row",
+      "description": "A whole-row booking link with aligned price and a thin separator.",
+      "html": "<div class=\"ds-menu\"><a class=\"ds-row\" href=\"https://booksy.com/en-us/1612832_fresh-me-up-barbershop_barber-shop_36433_plano\"><span>Haircut</span><span>$30</span><span class=\"ds-hex\" aria-hidden=\"true\"></span></a></div>",
+      "css": ".ds-menu{background:var(--ink,#0b0b0b);color:var(--paper,#f8f8f8);padding:12px}.ds-row{display:grid;grid-template-columns:1fr auto 26px;gap:30px;min-height:59px;padding:12px 0;border-bottom:1px solid #aaa;font:600 26px var(--label,\"Barlow Condensed\",sans-serif);letter-spacing:.025em;align-items:center;color:inherit;text-decoration:none}.ds-row:hover{color:var(--muted,#b8b8b8)}.ds-hex{width:24px;height:28px;position:relative;isolation:isolate;display:inline-block;flex-shrink:0}.ds-hex::before,.ds-hex::after{content:\"\";position:absolute;inset:0;clip-path:polygon(50% 0,100% 25%,100% 75%,50% 100%,0 75%,0 25%);z-index:-2;background:currentColor}.ds-hex::after{inset:2px;background:var(--ink,#0b0b0b);z-index:-1}.ds-button:focus-visible,.ds-nav a:focus-visible,.ds-row:focus-visible,.ds-details summary:focus-visible{outline:3px solid currentColor;outline-offset:6px}@media(prefers-reduced-motion:reduce){.ds-button,.ds-row,.ds-details summary>span{transition:none}}"
+    },
+    {
+      "name": "Native service disclosure",
+      "kind": "custom",
+      "description": "Real details/summary element with an inline SVG plus that rotates on open.",
+      "html": "<div class=\"ds-menu\"><details class=\"ds-details\"><summary>Kids' cuts &amp; extras<span aria-hidden=\"true\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 18 18\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M3 9h12M9 3v12\"/></svg></span></summary><dl><div><dt>Shampoo</dt><dd>$5</dd></div></dl></details></div>",
+      "css": ".ds-menu{background:var(--ink,#0b0b0b);color:var(--paper,#f8f8f8);padding:12px;font:16px/1.55 var(--body,\"Manrope\",sans-serif)}.ds-details{margin-top:26px;border-bottom:1px solid #666;padding-bottom:10px}.ds-details summary{display:flex;align-items:center;justify-content:space-between;gap:16px;list-style:none;cursor:pointer;min-height:44px;font-size:18px}.ds-details summary::-webkit-details-marker{display:none}.ds-details summary>span{display:inline-flex;flex:0 0 18px;transition:transform .2s ease}.ds-details[open] summary>span{transform:rotate(45deg)}.ds-details dl{margin:14px 0 0}.ds-details dl>div{display:flex;justify-content:space-between;gap:24px;padding:8px 0}.ds-details dd{margin:0;font-variant-numeric:tabular-nums}.ds-button:focus-visible,.ds-nav a:focus-visible,.ds-row:focus-visible,.ds-details summary:focus-visible{outline:3px solid currentColor;outline-offset:6px}@media(prefers-reduced-motion:reduce){.ds-button,.ds-row,.ds-details summary>span{transition:none}}"
+    },
+    {
+      "name": "Hero hexagon",
+      "kind": "custom",
+      "description": "The outlined identity frame, retained at 240px maximum width below the mobile booking control.",
+      "html": "<div class=\"ds-emblem\"><div class=\"ds-emblem-copy\"><span>Barbershop</span><i></i><small>Plano, TX</small></div></div>",
+      "css": ".ds-emblem{position:relative;isolation:isolate;aspect-ratio:444/504;width:100%;max-width:444px;display:grid;place-items:center;color:var(--ink,#0b0b0b)}.ds-emblem::before,.ds-emblem::after{content:\"\";position:absolute;inset:0;clip-path:polygon(50% 0,100% 25%,100% 75%,50% 100%,0 75%,0 25%);z-index:-2;background:currentColor}.ds-emblem::after{inset:7px;background:var(--paper,#f8f8f8);z-index:-1}.ds-emblem-copy{text-align:center;margin-top:62px;font-family:var(--label,\"Barlow Condensed\",sans-serif);text-transform:uppercase}.ds-emblem-copy>span{font-size:clamp(24px,3.6vw,55px);font-weight:600;letter-spacing:.16em}.ds-emblem-copy i{display:block;height:3px;width:100px;background:var(--ink,#0b0b0b);margin:22px auto 24px}.ds-emblem-copy small{font-size:24px;letter-spacing:.22em}@media(max-width:650px){.ds-emblem{width:min(240px,100%);margin:auto}.ds-emblem::after{inset:4px}.ds-emblem-copy{margin-top:20px}.ds-emblem-copy>span{font-size:26px;letter-spacing:.12em}.ds-emblem-copy i{width:60px;height:2px;margin:15px auto}.ds-emblem-copy small{font-size:18px}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Hex Shop Sign",
+    "overview": "Heavy condensed type gives the shop name its scale. Black and off-white fields, a gray address strip, and outlined hexagons carry the identity without color accents. The white space around the main hexagon is part of its shape.\n\nService names and prices sit in open rows. Square booking controls and plain supporting copy keep the page direct. This records the implemented world selected in mockup A; the page-specific composition remains in `.impeccable/surfaces/index-html.md`.",
+    "keyCharacteristics": [
+      "Oversized condensed display type with plain supporting copy.",
+      "Black, off-white, and neutral gray only.",
+      "Outlined hexagons repeated at distinct scales.",
+      "Open service rows and square booking controls."
+    ],
+    "rules": [
+      {
+        "name": "The Monochrome Rule",
+        "body": "Use black, off-white, and gray; do not introduce a colored accent.",
+        "section": "colors"
+      }
+    ],
+    "dos": [
+      "Do keep condensed display type, outlined hexagons, and monochrome fields distinct from Pasha's gold and serif world.",
+      "Do retain the centered mobile hexagon below the full-width booking control.",
+      "Do keep service rows open and booking, contact details, and disclosures as accessible HTML."
+    ],
+    "donts": [
+      "Don't add colored accents, invented shop photographs, or invented reviews.",
+      "Don't replace the square controls and open rows with rounded cards or shadowed panels.",
+      "Don't apply the shop name's horizontal scaling to ordinary headings or body copy."
+    ]
+  }
+}

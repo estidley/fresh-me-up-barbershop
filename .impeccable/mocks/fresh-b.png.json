@@ -1,0 +1,8 @@
+{
+  "prompt": "Create one polished desktop WEBSITE MOCKUP edge to edge 1536x1024 landscape. Fresh Me Up Barbershop in Plano Texas. Absolutely monochrome white black gray; no accent colors, gradients, stock photos, fake reviews, invented ratings. Heavy condensed sans display like Barlow Condensed with neutral sans body. The dominant first-screen composition is a graphic typographic SERVICE BOARD: header white with black small outlined hexagon FMU mark and Fresh Me Up Barbershop text on left, Find us navigation and black Book on Booksy button on right. Below, a black full-width horizontal masthead 'FRESH ME UP.' set boldly about 110px with white lettering. White main region underneath is made of three enormous full-width open rows, each row contains a tiny hexagon bullet then oversized black service label on left and large price right, with slim gray separating rules: 'HAIRCUT' '$30'; 'CUT + BEARD' '$40'; 'BEARD + LINEUP' '$25'. Small descriptions tucked under each label: '35 minutes', '45 minutes', '30 minutes'. Not floating cards. At bottom of board is a black high-contrast full-width booking ribbon with 'Pick your service. Choose your time.' and a white rectangular Book on Booksy control. Below, a calm gray location section starts with 'Find your chair.' and '1861 N Central Expy, Suite 200 / Plano, TX 75075'. One unusually direct service-first barbershop site; clean utilitarian geometry, precise alignment, no section numbering or eyebrow labels, comfortably readable body.",
+  "approved": false,
+  "generator": "built-in image_gen",
+  "name": "The cut list",
+  "source": "exec-c2dc8773-dc27-4257-856f-7e6c664d3566.png",
+  "notes": "Layout mockup; exact copy and responsive implementation pending."
+}
