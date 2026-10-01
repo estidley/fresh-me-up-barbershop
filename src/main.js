@@ -16,7 +16,6 @@ if (menuBtn && mobileNav) {
   })
 }
 
-// Keep schema.org URL honest once hosted — rewrite if we know location
 const origin = window.location.origin
 if (origin && !origin.includes('localhost')) {
   const ld = document.querySelector('script[type="application/ld+json"]')
